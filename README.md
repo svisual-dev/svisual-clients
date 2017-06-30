@@ -1,5 +1,5 @@
 # svisual-clients
 Different types of clients for SVisualServer
 
-# main page
+# Main page
 https://s-visual.com/
