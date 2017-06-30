@@ -1,4 +1,4 @@
-# svisual-clients
+# svisual-clients repo
 Different types of clients for SVisualServer
 
 # Main page
